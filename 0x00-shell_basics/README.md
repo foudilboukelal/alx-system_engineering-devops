@@ -7,4 +7,5 @@ ls -lna display in long format with files that start with nemericall and hidden 
 mkdir create a directory
 mv rename or move file/directory
 rm delete a file or a directory
-rm -r delete a directory 
+rm -r delete a directory
+cd - back to the previous directory 
