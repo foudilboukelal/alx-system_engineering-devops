@@ -5,4 +5,5 @@ ls -l display the long format directory contents
 ls -al display hidden files in long format
 ls -lna display in long format with files that start with nemericall and hidden files
 mkdir create a directory
-mv rename or move file/directory 
+mv rename or move file/directory
+rm delete a file or a directory 
