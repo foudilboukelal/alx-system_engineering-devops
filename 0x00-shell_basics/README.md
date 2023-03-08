@@ -14,4 +14,5 @@ file display the type of the file
 ln -s creat a symbolique link from a file to a directory
 cp -un *.html copy html  newest files or if files are missing
 mv [[:upper:]]* move all the file that begins with uppercase 
-rm *~ delete all files that end with ~   
+rm *~ delete all files that end with ~ 
+mkdir -p used to creat directories as needed  
