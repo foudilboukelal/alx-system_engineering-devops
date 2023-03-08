@@ -10,4 +10,5 @@ rm delete a file or a directory
 rm -r delete a directory
 cd - back to the previous directory
 ls -al . .. /boot display all the files even the hidden onces in the current directory . in the parent dir .. and the boot dir
-file display the type of the file 
+file display the type of the file
+ln -s creat a symbolique link from a file to a directory 
