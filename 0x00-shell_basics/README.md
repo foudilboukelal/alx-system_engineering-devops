@@ -15,4 +15,5 @@ ln -s creat a symbolique link from a file to a directory
 cp -un *.html copy html  newest files or if files are missing
 mv [[:upper:]]* move all the file that begins with uppercase 
 rm *~ delete all files that end with ~ 
-mkdir -p used to creat directories as needed  
+mkdir -p used to creat directories as needed
+ls -ampv list all the files and directories even the hidden one (a) sort by natural order starting with digit (v) separated with a comma (m) and the directories ends with / (p)  
