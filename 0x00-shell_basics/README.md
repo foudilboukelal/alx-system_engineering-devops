@@ -13,4 +13,5 @@ ls -al . .. /boot display all the files even the hidden onces in the current dir
 file display the type of the file
 ln -s creat a symbolique link from a file to a directory
 cp -un *.html copy html  newest files or if files are missing
-mv [[:upper:]]* move all the file that begins with uppercase   
+mv [[:upper:]]* move all the file that begins with uppercase 
+rm *~ delete all files that end with ~   
