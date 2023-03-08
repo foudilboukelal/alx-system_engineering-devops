@@ -8,4 +8,5 @@ mkdir create a directory
 mv rename or move file/directory
 rm delete a file or a directory
 rm -r delete a directory
-cd - back to the previous directory 
+cd - back to the previous directory
+ls -al . .. /boot display all the files even the hidden onces in the current directory . in the parent dir .. and the boot dir 
