@@ -1,2 +1,3 @@
 su betty a script that switch the user on linux
 whoami to show the superuser name
+groups to show all the groups that the current user is a part
