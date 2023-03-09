@@ -6,3 +6,5 @@ touch a script to creat an empty file
 chmod u+x add the execution permission to the owner
 chmod ug+x,o+r give execution permission to the owner and group, read permission for the others
 chmod a+x give execution permission for owner,group and others
+chmod --reference=  give the same permissions as the reference file
+chmod -R give the permission recursively to directory and subdirectories
