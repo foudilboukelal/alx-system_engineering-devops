@@ -1,4 +1,4 @@
 su betty a script that switch the user on linux
 whoami to show the superuser name
 groups to show all the groups that the current user is a part
-su chown is a script to change the ownership of a file
+sudo chown is a script to change the ownership of a file
