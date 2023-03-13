@@ -3,3 +3,4 @@ echo  is printing the message in the simple quotes
 cat display the content of a file
 tail prints the last 10 lines of a file
 head prints the first 10 lines of a file
+head -3 prints the third line of the file
