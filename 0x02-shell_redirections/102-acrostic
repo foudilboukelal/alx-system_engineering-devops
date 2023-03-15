@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -C 1 | pastee -s -d ''
+cut -c 1 | pastee -s -d ''
